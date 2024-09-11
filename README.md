@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cookiboogie
+- 👋 Hi, I’m @SwapnilJ
 - 👀 I’m interested in building Data Science Projects 
 - 🌱 I’m currently learning a lot of things
 - 💞️ I’m looking to collaborate on a lot of things
